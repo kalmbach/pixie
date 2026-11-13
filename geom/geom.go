@@ -1,4 +1,4 @@
-// Package geom provides 2D vectors and rectagles in world coordinates. 
+// Package geom provides 2D vectors and rectangles in world coordinates.
 package geom
 
 // Vec is a 2D vector, used for positions, velocities and sizes.
